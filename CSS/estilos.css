@@ -1,9 +1,43 @@
-.encabezado
+
+h1{font-size: 100px; font-family:comic; color:blue;
+		text-shadow: 1px 2px 3px #000000
+	}
+p{font-size: 50px; font-family:Arial;color:red
+ }
+h2
 {
-	font: arial ; 
-	border-style: 
+	font-size: 50px;font-family: Arial; color:blue;
+	text-shadow:1px 2px 3px #000000;
 }
-.columna
+
+#Asignado{
+	background: #CD45EB;
+	height: 20px; border-radius: 10px
+}
+
+#imagen{
+width: 50%;float: left;
+border-radius:50%;width: 50%;
+
+}
+#imagen1{ width: 50%;float: right;
+border-radius: 50%;width: 50%;
+
+}
+#info1{
+	background-color: black;
+	background-size: 25px
+}
+#info2{
+	background-color: yellow;
+	background-size: 25px
+}
+
+#info3{
+	background-color: pink;
+	background-size: 25px
+}
+#fondo
 {
-	font: arial; size: 10%
+	background-color: teal
 }
